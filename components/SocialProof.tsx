@@ -4,7 +4,7 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import CountUp from 'react-countup';
 import useSound from 'use-sound';
-import Image from 'next/image'
+
 
 gsap.registerPlugin(ScrollTrigger);
 

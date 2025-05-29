@@ -6,7 +6,7 @@ import GlassNav from "@/components/Navbar";
 import YutecultrSocialProof from "@/components/SocialProof";
 import Store from "@/components/Store";
 import Suggestion from "@/components/Suggestion";
-import Image from "next/image";
+
 
 export default function Home() {
   return (

@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import { BiLogoTelegram } from "react-icons/bi";
-import { FaTelegram } from "react-icons/fa";
+
 
 const ContactSection = () => {
   const [formData, setFormData] = useState({ name: "", email: "" });
